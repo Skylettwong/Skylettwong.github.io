@@ -471,6 +471,14 @@ nav ul li a {
   width: 100%;
 }
 
+table {
+  border-top: 1px ;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px ;
+
+}
+
 #Photography .Photography-block .Photography-info {
   position: relative;
 }
@@ -511,6 +519,16 @@ nav ul li a {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
+}
+.carousel {
+  width: 100%;
+  height: auto;
+    padding-bottom: 20px;
+}
+
+.carousel-inner img{
+  width: 100%;
+  height: auto;
 }
 
 /*-----------------------------------------------------------------------------------*/
